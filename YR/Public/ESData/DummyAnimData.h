@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "DummyAnimData.generated.h"
 
+/**供动画蓝图使用的数据 */
 USTRUCT(BlueprintType)
 struct YR_API FDummyAnimData
 {
